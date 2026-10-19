@@ -1,0 +1,30 @@
+# Panda theme made by beta.
+# A dark, superminimal theme based on the Panda VS Code theme (https://github.com/PandaTheme/panda-syntax-vscode).
+# GitHub: https://github.com/beta/ghostty-theme-panda
+
+term = xterm-256color
+
+background = #2a2c2d
+foreground = #e6e6e6
+cursor-color = #19f9d8
+
+selection-background = #19f9d8
+selection-foreground = #2a2c2d
+
+palette = 0=#2a2c2d
+palette = 1=#ff2c6d
+palette = 2=#19f9d8
+palette = 3=#ffb86c
+palette = 4=#45a9f9
+palette = 5=#b084eb
+palette = 6=#19f9d8
+palette = 7=#cdcdcd
+palette = 8=#757575
+palette = 9=#ff4b82
+palette = 10=#6fe7d2
+palette = 11=#ffcc95
+palette = 12=#6fc1ff
+palette = 13=#bcaafe
+palette = 14=#6fe7d2
+palette = 15=#e6e6e6
+
